@@ -9,10 +9,10 @@
   <rect x="0.5" y="0.5" rx="4.5" width="419" height="204" fill="#1a1b27"/>
   <text x="25" y="35" class="title">Most Used Languages</text>
   <mask id="m"><rect x="25" y="55" width="370" height="8" rx="4" fill="#fff"/></mask>
-  <rect mask="url(#m)" x="25.00" y="55" width="241.75" height="8" fill="#DA5B0B"/>
-  <rect mask="url(#m)" x="266.75" y="55" width="48.53" height="8" fill="#3D6117"/>
-  <rect mask="url(#m)" x="315.28" y="55" width="40.67" height="8" fill="#f1e05a"/>
-  <rect mask="url(#m)" x="355.96" y="55" width="21.89" height="8" fill="#3572A5"/>
+  <rect mask="url(#m)" x="25.00" y="55" width="241.70" height="8" fill="#DA5B0B"/>
+  <rect mask="url(#m)" x="266.70" y="55" width="48.52" height="8" fill="#3D6117"/>
+  <rect mask="url(#m)" x="315.22" y="55" width="40.67" height="8" fill="#f1e05a"/>
+  <rect mask="url(#m)" x="355.89" y="55" width="21.96" height="8" fill="#3572A5"/>
   <rect mask="url(#m)" x="377.85" y="55" width="7.52" height="8" fill="#e34c26"/>
   <rect mask="url(#m)" x="385.37" y="55" width="6.41" height="8" fill="#ff5a03"/>
   <rect mask="url(#m)" x="391.78" y="55" width="2.02" height="8" fill="#3178c6"/>
