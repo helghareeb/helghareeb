@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="205" viewBox="0 0 420 205" role="img" aria-labelledby="t">
+  <title id="t">Most Used Languages</title>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #70a5fd; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
+    .value { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a9b1d6; }
+    .small { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a9b1d6; opacity: 0.7; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="419" height="204" fill="#1a1b27"/>
+  <text x="25" y="35" class="title">Most Used Languages</text>
+  <mask id="m"><rect x="25" y="55" width="370" height="8" rx="4" fill="#fff"/></mask>
+  <rect mask="url(#m)" x="25.00" y="55" width="241.75" height="8" fill="#DA5B0B"/>
+  <rect mask="url(#m)" x="266.75" y="55" width="48.53" height="8" fill="#3D6117"/>
+  <rect mask="url(#m)" x="315.28" y="55" width="40.67" height="8" fill="#f1e05a"/>
+  <rect mask="url(#m)" x="355.96" y="55" width="21.89" height="8" fill="#3572A5"/>
+  <rect mask="url(#m)" x="377.85" y="55" width="7.52" height="8" fill="#e34c26"/>
+  <rect mask="url(#m)" x="385.37" y="55" width="6.41" height="8" fill="#ff5a03"/>
+  <rect mask="url(#m)" x="391.78" y="55" width="2.02" height="8" fill="#3178c6"/>
+  <rect mask="url(#m)" x="393.80" y="55" width="1.20" height="8" fill="#555555"/>
+  <circle cx="30" cy="86" r="5" fill="#DA5B0B"/>
+  <text x="40" y="90" class="label">Jupyter Notebook <tspan class="value">65.0%</tspan></text>
+  <circle cx="230" cy="86" r="5" fill="#3D6117"/>
+  <text x="240" y="90" class="label">TeX <tspan class="value">13.1%</tspan></text>
+  <circle cx="30" cy="111" r="5" fill="#f1e05a"/>
+  <text x="40" y="115" class="label">JavaScript <tspan class="value">10.9%</tspan></text>
+  <circle cx="230" cy="111" r="5" fill="#3572A5"/>
+  <text x="240" y="115" class="label">Python <tspan class="value">5.9%</tspan></text>
+  <circle cx="30" cy="136" r="5" fill="#e34c26"/>
+  <text x="40" y="140" class="label">HTML <tspan class="value">2.0%</tspan></text>
+  <circle cx="230" cy="136" r="5" fill="#ff5a03"/>
+  <text x="240" y="140" class="label">Astro <tspan class="value">1.7%</tspan></text>
+  <circle cx="30" cy="161" r="5" fill="#3178c6"/>
+  <text x="40" y="165" class="label">TypeScript <tspan class="value">0.5%</tspan></text>
+  <circle cx="230" cy="161" r="5" fill="#555555"/>
+  <text x="240" y="165" class="label">C <tspan class="value">0.3%</tspan></text>
+  <text x="25" y="188" class="small">Public repositories · updated 26 Oct 2026</text>
+</svg>

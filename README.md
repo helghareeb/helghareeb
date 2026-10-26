@@ -69,11 +69,8 @@ runs through all of it: **أمانة — honesty**. Four things I care about:
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=helghareeb&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helghareeb&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=helghareeb&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img height="180" alt="GitHub stats" src="cards/stats.svg" />
+  <img height="180" alt="Most used languages" src="cards/langs.svg" />
 </p>
 
 <p align="center"><i>Make the strongest claim the work can honestly support.</i></p>
