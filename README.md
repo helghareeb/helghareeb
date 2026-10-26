@@ -37,6 +37,21 @@ runs through all of it: **أمانة — honesty**. Four things I care about:
 >
 > ⭐ **[github.com/helghareeb/echo](https://github.com/helghareeb/echo)** — stars &amp; PRs very welcome!
 
+### 🎓 Teaching — Data Structures &amp; Algorithms (DSA27)
+> An open course in Python, Fall 2026, built in the open on GitHub:
+> **[github.com/helghareeb/DSA27](https://github.com/helghareeb/DSA27)**
+>
+> - 📖 **15 lectures** (handouts + slides), **15 lab manuals**, a students' book, and worked solutions
+> - 🧪 **Interactive labs** that run the code step by step:
+>   [Array](https://helghareeb.github.io/DSA27/lectures/02-complexity-and-arrays/array-lab.html) ·
+>   [Recursion](https://helghareeb.github.io/DSA27/lectures/03-recursion/recursion-lab.html) ·
+>   [Linked List](https://helghareeb.github.io/DSA27/lectures/05-linked-lists/linked-list-lab.html) ·
+>   [Stack](https://helghareeb.github.io/DSA27/lectures/06-stacks/stack-lab.html) ·
+>   [Queue](https://helghareeb.github.io/DSA27/lectures/07-queues/queue-lab.html)
+> - ✅ A **question bank** with answers, mock exams, and
+>   [online quizzes](https://helghareeb.github.io/en/quizzes/) in English and Arabic
+> - ⏱️ A **[midterm exam simulator](https://helghareeb.github.io/en/quizzes/dsa27/midterm/)** — a fresh timed paper every time
+
 ### 🔬 Currently building
 - 🧠 A program of **uncertainty-aware ML audits** (Scientific Reports / IEEE Access) — honest evaluation, calibration, and trustworthy intrusion detection.
 - 📚 **Athar (أثر)** — an open, narrator-resolved hadith corpus with uncertainty-aware transmission embeddings.
