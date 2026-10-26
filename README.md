@@ -1,6 +1,6 @@
 <h1 align="center">👋 Haitham El-Ghareeb · هيثم الغريب</h1>
 <p align="center"><b>Assoc. Professor, Faculty of Computers &amp; Information Sciences · Mansoura University · Egypt</b><br>
-<i>Editor-in-Chief, Mansoura Journal of Computer &amp; Information Sciences (MJCIS)</i></p>
+<i>Managing Editor, Mansoura Journal of Computer &amp; Information Sciences (MJCIS)</i></p>
 
 <p align="center">
   <img alt="Role" src="https://img.shields.io/badge/Professor%20%26%20Researcher-1f6feb?style=for-the-badge">
@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://helghareeb.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-helghareeb.github.io-1f6feb"></a>
   <a href="https://mymans.mans.edu.eg/cv/7b132ee1-9c12-48bd-b343-004dac07b93f/3"><img alt="Mansoura University CV" src="https://img.shields.io/badge/Mansoura%20University-CV-8b1a1a"></a>
-  <a href="https://csifac.mans.edu.eg/index.php/2024-08-15-06-51-22/2024-08-15-07-51-52"><img alt="MJCIS" src="https://img.shields.io/badge/Editor--in--Chief-MJCIS-1f4e79"></a>
+  <a href="https://csifac.mans.edu.eg/index.php/2024-08-15-06-51-22/2024-08-15-07-51-52"><img alt="MJCIS" src="https://img.shields.io/badge/Managing%20Editor-MJCIS-1f4e79"></a>
 </p>
 <p align="center">
   <a href="https://scholar.google.com/citations?user=f66uaewAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-cited%20~1.3k-4285f4?logo=googlescholar&logoColor=white"></a>
@@ -35,7 +35,7 @@ runs through all of it: **أمانة — honesty**. Four things I care about:
 
 - 🔬 **Research** — uncertainty-aware, *honest* AI: neutrosophic/plithogenic methods, calibration,
   selective prediction, conformal coverage, leakage-safe evaluation (medical AI, IoT/edge, IDS, distributed data systems).
-- 🎓 **Academia** — Assoc. Professor at Mansoura University &amp; Editor-in-Chief of **MJCIS**; 70+ thesis committees; mentoring grad students.
+- 🎓 **Academia** — Assoc. Professor at Mansoura University &amp; Managing Editor of **MJCIS**; 70+ thesis committees; mentoring grad students.
 - 💻 **Software &amp; systems** — I build in the open. Reviewer for international journals; OSS contributor.
 - 🕌 **Islamic knowledge** — I author and edit works on hadith and uṣūl al-fiqh, making classical scholarship open and accessible.
 
