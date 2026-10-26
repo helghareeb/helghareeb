@@ -9,9 +9,13 @@
 </p>
 <p align="center">
   <a href="https://helghareeb.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-helghareeb.github.io-1f6feb"></a>
-  <a href="https://www.linkedin.com/in/helghareeb"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in/helghareeb-0a66c2?logo=linkedin&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=f66uaewAAAAJ"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-cited%20~1.3k-4285f4?logo=googlescholar&logoColor=white"></a>
+  <a href="https://mymans.mans.edu.eg/cv/7b132ee1-9c12-48bd-b343-004dac07b93f/3"><img alt="Mansoura University CV" src="https://img.shields.io/badge/Mansoura%20University-CV-8b1a1a"></a>
+  <a href="https://scholar.google.com/citations?user=f66uaewAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-cited%20~1.3k-4285f4?logo=googlescholar&logoColor=white"></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=24070510200"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-24070510200-e9711c?logo=scopus&logoColor=white"></a>
+  <a href="https://www.webofscience.com/wos/author/record/D-6008-2015"><img alt="Web of Science" src="https://img.shields.io/badge/Web%20of%20Science-D--6008--2015-5e33bf?logo=clarivate&logoColor=white"></a>
+  <a href="https://ieeexplore.ieee.org/author/37086352024"><img alt="IEEE Xplore" src="https://img.shields.io/badge/IEEE%20Xplore-author-00629b?logo=ieee&logoColor=white"></a>
   <a href="https://orcid.org/0000-0003-1875-6706"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--1875--6706-a6ce39?logo=orcid&logoColor=white"></a>
+  <a href="https://openalex.org/A5062285323"><img alt="OpenAlex" src="https://img.shields.io/badge/OpenAlex-A5062285323-c0392b"></a>
 </p>
 
 ---
