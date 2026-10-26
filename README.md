@@ -10,10 +10,8 @@
 <p align="center">
   <a href="https://helghareeb.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-helghareeb.github.io-1f6feb"></a>
   <a href="https://www.linkedin.com/in/helghareeb"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in/helghareeb-0a66c2?logo=linkedin&logoColor=white"></a>
-  <a href="https://youtube.com/@helghareeb"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@helghareeb-ff0000?logo=youtube&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=f66uaewAAAAJ"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-cited%20~1.3k-4285f4?logo=googlescholar&logoColor=white"></a>
   <a href="https://orcid.org/0000-0003-1875-6706"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--1875--6706-a6ce39?logo=orcid&logoColor=white"></a>
-  <a href="https://www.researchgate.net/profile/Haitham-El-Ghareeb"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Haitham--El--Ghareeb-00ccbb?logo=researchgate&logoColor=white"></a>
 </p>
 
 ---
@@ -55,7 +53,6 @@ runs through all of it: **أمانة — honesty**. Four things I care about:
 ### 🔬 Currently building
 - 🧠 A program of **uncertainty-aware ML audits** (Scientific Reports / IEEE Access) — honest evaluation, calibration, and trustworthy intrusion detection.
 - 📚 **Athar (أثر)** — an open, narrator-resolved hadith corpus with uncertainty-aware transmission embeddings.
-- 🎬 A YouTube channel (**@helghareeb**) across research, software, academia, and Islamic knowledge.
 
 ### 🧰 Tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
