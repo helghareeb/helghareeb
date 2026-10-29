@@ -9,16 +9,16 @@
   <rect x="0.5" y="0.5" rx="4.5" width="419" height="204" fill="#1a1b27"/>
   <text x="25" y="35" class="title">Most Used Languages</text>
   <mask id="m"><rect x="25" y="55" width="370" height="8" rx="4" fill="#fff"/></mask>
-  <rect mask="url(#m)" x="25.00" y="55" width="241.67" height="8" fill="#DA5B0B"/>
-  <rect mask="url(#m)" x="266.67" y="55" width="48.52" height="8" fill="#3D6117"/>
-  <rect mask="url(#m)" x="315.19" y="55" width="40.66" height="8" fill="#f1e05a"/>
-  <rect mask="url(#m)" x="355.85" y="55" width="21.96" height="8" fill="#3572A5"/>
-  <rect mask="url(#m)" x="377.81" y="55" width="7.52" height="8" fill="#e34c26"/>
-  <rect mask="url(#m)" x="385.33" y="55" width="6.44" height="8" fill="#ff5a03"/>
-  <rect mask="url(#m)" x="391.78" y="55" width="2.02" height="8" fill="#3178c6"/>
+  <rect mask="url(#m)" x="25.00" y="55" width="241.35" height="8" fill="#DA5B0B"/>
+  <rect mask="url(#m)" x="266.35" y="55" width="48.45" height="8" fill="#3D6117"/>
+  <rect mask="url(#m)" x="314.80" y="55" width="40.61" height="8" fill="#f1e05a"/>
+  <rect mask="url(#m)" x="355.41" y="55" width="21.93" height="8" fill="#3572A5"/>
+  <rect mask="url(#m)" x="377.34" y="55" width="7.51" height="8" fill="#e34c26"/>
+  <rect mask="url(#m)" x="384.85" y="55" width="6.80" height="8" fill="#ff5a03"/>
+  <rect mask="url(#m)" x="391.65" y="55" width="2.15" height="8" fill="#3178c6"/>
   <rect mask="url(#m)" x="393.80" y="55" width="1.20" height="8" fill="#555555"/>
   <circle cx="30" cy="86" r="5" fill="#DA5B0B"/>
-  <text x="40" y="90" class="label">Jupyter Notebook <tspan class="value">65.0%</tspan></text>
+  <text x="40" y="90" class="label">Jupyter Notebook <tspan class="value">64.9%</tspan></text>
   <circle cx="230" cy="86" r="5" fill="#3D6117"/>
   <text x="240" y="90" class="label">TeX <tspan class="value">13.0%</tspan></text>
   <circle cx="30" cy="111" r="5" fill="#f1e05a"/>
@@ -28,10 +28,10 @@
   <circle cx="30" cy="136" r="5" fill="#e34c26"/>
   <text x="40" y="140" class="label">HTML <tspan class="value">2.0%</tspan></text>
   <circle cx="230" cy="136" r="5" fill="#ff5a03"/>
-  <text x="240" y="140" class="label">Astro <tspan class="value">1.7%</tspan></text>
+  <text x="240" y="140" class="label">Astro <tspan class="value">1.8%</tspan></text>
   <circle cx="30" cy="161" r="5" fill="#3178c6"/>
-  <text x="40" y="165" class="label">TypeScript <tspan class="value">0.5%</tspan></text>
+  <text x="40" y="165" class="label">TypeScript <tspan class="value">0.6%</tspan></text>
   <circle cx="230" cy="161" r="5" fill="#555555"/>
   <text x="240" y="165" class="label">C <tspan class="value">0.3%</tspan></text>
-  <text x="25" y="188" class="small">Public repositories · updated 28 Oct 2026</text>
+  <text x="25" y="188" class="small">Public repositories · updated 29 Oct 2026</text>
 </svg>
