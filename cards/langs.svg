@@ -9,16 +9,16 @@
   <rect x="0.5" y="0.5" rx="4.5" width="419" height="204" fill="#1a1b27"/>
   <text x="25" y="35" class="title">Most Used Languages</text>
   <mask id="m"><rect x="25" y="55" width="370" height="8" rx="4" fill="#fff"/></mask>
-  <rect mask="url(#m)" x="25.00" y="55" width="241.10" height="8" fill="#DA5B0B"/>
-  <rect mask="url(#m)" x="266.10" y="55" width="48.40" height="8" fill="#3D6117"/>
-  <rect mask="url(#m)" x="314.50" y="55" width="40.72" height="8" fill="#f1e05a"/>
-  <rect mask="url(#m)" x="355.22" y="55" width="21.91" height="8" fill="#3572A5"/>
-  <rect mask="url(#m)" x="377.13" y="55" width="7.50" height="8" fill="#e34c26"/>
-  <rect mask="url(#m)" x="384.63" y="55" width="6.98" height="8" fill="#ff5a03"/>
-  <rect mask="url(#m)" x="391.61" y="55" width="2.19" height="8" fill="#3178c6"/>
+  <rect mask="url(#m)" x="25.00" y="55" width="240.86" height="8" fill="#DA5B0B"/>
+  <rect mask="url(#m)" x="265.86" y="55" width="48.36" height="8" fill="#3D6117"/>
+  <rect mask="url(#m)" x="314.22" y="55" width="40.68" height="8" fill="#f1e05a"/>
+  <rect mask="url(#m)" x="354.89" y="55" width="22.00" height="8" fill="#3572A5"/>
+  <rect mask="url(#m)" x="376.89" y="55" width="7.50" height="8" fill="#e34c26"/>
+  <rect mask="url(#m)" x="384.38" y="55" width="7.05" height="8" fill="#ff5a03"/>
+  <rect mask="url(#m)" x="391.43" y="55" width="2.37" height="8" fill="#3178c6"/>
   <rect mask="url(#m)" x="393.80" y="55" width="1.20" height="8" fill="#555555"/>
   <circle cx="30" cy="86" r="5" fill="#DA5B0B"/>
-  <text x="40" y="90" class="label">Jupyter Notebook <tspan class="value">64.8%</tspan></text>
+  <text x="40" y="90" class="label">Jupyter Notebook <tspan class="value">64.7%</tspan></text>
   <circle cx="230" cy="86" r="5" fill="#3D6117"/>
   <text x="240" y="90" class="label">TeX <tspan class="value">13.0%</tspan></text>
   <circle cx="30" cy="111" r="5" fill="#f1e05a"/>
@@ -33,5 +33,5 @@
   <text x="40" y="165" class="label">TypeScript <tspan class="value">0.6%</tspan></text>
   <circle cx="230" cy="161" r="5" fill="#555555"/>
   <text x="240" y="165" class="label">C <tspan class="value">0.3%</tspan></text>
-  <text x="25" y="188" class="small">Public repositories · updated 07 Nov 2026</text>
+  <text x="25" y="188" class="small">Public repositories · updated 08 Nov 2026</text>
 </svg>
